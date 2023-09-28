@@ -1,7 +1,7 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import NewPostForm from '../../componentes/Face/NewPostForm';
 import PostList from '../../componentes/Face/PostList';
-import { Post, Comment } from '../../types/Types';
+import { Comment, Post } from '../../types/FaceTypes';
 
 export default function Face() {
   const [posts, setPosts] = useState<Post[]>([]);

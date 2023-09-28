@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Post } from '../../types/Types';
+import { Post } from '../../types/FaceTypes';
 
 interface NewPostFormProps {
   addPost: (newPost: Post) => void;

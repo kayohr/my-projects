@@ -5,7 +5,7 @@ interface Comment {
 
 interface Post {
   id: number;
-  content: string;
+  content: string; //conteúdo ou texto 
   liked: boolean;
   comments: Comment[];
 }

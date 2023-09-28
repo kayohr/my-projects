@@ -1,7 +1,7 @@
 // PostList.tsx
 import React from 'react';
+import { Comment, Post } from '../../types/FaceTypes';
 import PostItem from './PostItem';
-import { Post, Comment } from '../../types/Types';
 
 interface PostListProps {
   posts: Post[];

@@ -1,6 +1,6 @@
 // CommentForm.tsx
 import React, { useState } from 'react';
-import { Comment } from '../../types/Types';
+import { Comment } from '../../types/FaceTypes';
 
 interface CommentFormProps {
   postId: number;

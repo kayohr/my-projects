@@ -1,7 +1,7 @@
 // PostItem.tsx
 import React, { useState } from 'react';
+import { Comment, Post } from '../../types/FaceTypes';
 import CommentForm from '../Face/ComentForm';
-import { Comment, Post } from '../../types/Types';
 
 interface PostItemProps {
   post: Post;
