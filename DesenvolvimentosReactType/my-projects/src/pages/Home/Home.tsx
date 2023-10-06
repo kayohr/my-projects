@@ -7,6 +7,8 @@ const Home = () => {
     <Link to="/face">Facebook</Link>
     <br />
     <Link to="/micro">Microsoft</Link>
+    <br />
+    <Link to="/netflix">Netflix</Link>
   </div>
 };
 

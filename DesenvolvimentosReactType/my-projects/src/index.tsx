@@ -8,6 +8,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import Home from "./pages/Home/Home"
 import Face from './pages/Facebook/Face';
 import Microsoft from './pages/Microsoft/Microsoft';
+import Netflix from './pages/Netflix/Netflix';
 
 const router = createBrowserRouter([
   {
@@ -24,6 +25,10 @@ const router = createBrowserRouter([
     {
       path: "/micro",
       element: <Microsoft />,
+    },
+    {
+      path: "/netflix",
+      element: <Netflix />,
     }
   ]
   }
