@@ -9,6 +9,7 @@ import Home from "./pages/Home/Home"
 import Face from './pages/Facebook/Face';
 import Microsoft from './pages/Microsoft/Microsoft';
 import Netflix from './pages/Netflix/Netflix';
+import Airbnb from './pages/Airbnb/Airbnb';
 
 const router = createBrowserRouter([
   {
@@ -29,6 +30,10 @@ const router = createBrowserRouter([
     {
       path: "/netflix",
       element: <Netflix />,
+    },
+    {
+      path: "/airbnb",
+      element: <Airbnb />,
     }
   ]
   }

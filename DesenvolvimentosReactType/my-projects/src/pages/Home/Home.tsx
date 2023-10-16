@@ -9,6 +9,8 @@ const Home = () => {
     <Link to="/micro">Microsoft</Link>
     <br />
     <Link to="/netflix">Netflix</Link>
+    <br />
+    <Link to="/airbnb">Airbnb</Link>
   </div>
 };
 
