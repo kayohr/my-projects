@@ -1,0 +1,50 @@
+Facebook - Feed de Notícias;
+Microsoft - Aplicativo de Gerenciamento de Tarefas;
+Netflix - Aplicativo de Streaming;
+Airbnb - Site de Aluguel de Hospedagem;
+Uber - Aplicativo de Reserva de Viagem;
+Slack - Aplicativo de Mensagens;Atlassian - Ferramenta de Gerenciamento de Projetos;
+Salesforce - CRM (Customer Relationship Management);
+Twilio - Aplicativo de Mensagens e Chamadas;
+GitHub - Plataforma de Desenvolvimento Colaborativo;
+Pesquisar peli GitHub - https://www.youtube.com/watch?v=3sQITRihW_A
+Facebook - Feed de Notícias:
+
+Imagine um projeto que replica uma parte do feed de notícias do Facebook, onde os usuários podem postar mensagens, curtir e comentar em postagens de outros usuários. Este projeto envolveria componentes de exibição de postagens, gerenciamento de estados de curtidas e comentários, bem como o uso de tipos para representar postagens e comentários.
+
+Microsoft - Aplicativo de Gerenciamento de Tarefas:
+
+Um aplicativo web para gerenciar tarefas, semelhante ao Microsoft To Do. Você teria componentes para exibir, criar, editar e excluir tarefas. Isso envolveria o uso de tipos para representar tarefas, suas propriedades e estados.
+
+Netflix - Aplicativo de Streaming:
+
+Um aplicativo de streaming de vídeo que exibe uma lista de filmes e séries, permite que os usuários cliquem para reproduzir, pausar e procurem. Este projeto usaria componentes para exibir informações do vídeo, gerenciamento de estados de reprodução e pesquisa de títulos.
+
+Airbnb - Site de Aluguel de Hospedagem:
+
+Um site de aluguel de hospedagem onde os usuários podem listar suas propriedades para aluguel e os outros podem reservar estadias. Isso envolveria componentes para listar propriedades, detalhes de listagem, reserva e gerenciamento de estados de disponibilidade.
+
+Uber - Aplicativo de Reserva de Viagem:
+
+Um aplicativo para reservar viagens de carro, semelhante ao Uber. Este projeto usaria componentes para solicitar uma viagem, exibir detalhes do motorista e rastrear o progresso da viagem.
+
+Slack - Aplicativo de Mensagens:
+
+Um aplicativo de mensagens em equipe onde os usuários podem criar canais, trocar mensagens e compartilhar arquivos. Isso envolveria componentes para exibir mensagens, criar canais e gerenciamento de estados de mensagens.
+
+Atlassian - Ferramenta de Gerenciamento de Projetos:
+
+Uma ferramenta de gerenciamento de projetos onde os usuários podem criar, atribuir e acompanhar tarefas. Isso envolveria componentes para criar e exibir tarefas, gerenciar estados de atribuição e conclusão.
+
+Salesforce - CRM (Customer Relationship Management):
+
+Um sistema de CRM para rastrear clientes, contatos e oportunidades de vendas. Isso envolveria componentes para exibir informações do cliente, histórico de interações e oportunidades de vendas.
+
+Twilio - Aplicativo de Mensagens e Chamadas:
+
+Um aplicativo que permite aos usuários enviar mensagens de texto e fazer chamadas de voz. Isso envolveria componentes para enviar mensagens, fazer chamadas e gerenciar estados de comunicação.
+
+GitHub - Plataforma de Desenvolvimento Colaborativo:
+
+Uma aplicação que permite aos desenvolvedores colaborar em projetos de software, rastrear problemas e criar solicitações de pull. Isso envolveria componentes para exibir repositórios, problemas, código-fonte e comentários.
+
